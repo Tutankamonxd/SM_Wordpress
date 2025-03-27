@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 62" width="92" height="62">
+	<title>sliderX-icon</title>
+	<defs>
+		<image  width="9" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAMAAACah1cpAAAAAXNSR0IB2cksfwAAAK5QTFRFAAAASH/0SX/zSX/zSH/0SX/zSX/zSX/zSH/0SX/0SX/0SX/0SH/0SYD1SYD1SYD1SX/0SH/0SH/0SYD1SYD1SYD1SH/0SH/0SH/0SYD1SID1SID1SYD1SX/0SX/0SH/0SYD1SID1SID1SYD1SX/0SX/0SH/0SH/0SYD1SYD1SYD1SH/0SH/0SH/0SH/0SYD1SYD1SX/0SX/0R4D0R4D0SH/0SX/0SX/zSX/zSX/zdILAwwAAADp0Uk5TAAADBgETKSEQPFk2DE2kr0QIQ7j3xVkDNrfv9cpSADe+9PfVZQgLO6Ht3YAXBCFyrnYfEjVLJgkbGIBRAvMAAABGSURBVHicPcqhCoBAAATRGTgwWGxGm02M/v/vmCyGC4J7iLfpwY6AyoNRCWuTQ3RHjoFXmqnBE2e/5V261i62Lsr+C47oBbtwBhy2mdjoAAAAAElFTkSuQmCC"/>
+		<image  width="20" height="26" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaAgMAAADK7ZTuAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+DTAJcQnYVQBzqyXjvy8vXwAAAABJRU5ErkJggg=="/>
+		<image  width="20" height="26" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaAgMAAADK7ZTuAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+DTAJcQnYVQBzqyXjvy8vXwAAAABJRU5ErkJggg=="/>
+		<image  width="20" height="26" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaAgMAAADK7ZTuAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+DTAJcQnYVQBzqyXjvy8vXwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m7 3h31v55h-31z"/>
+	<path id="Shape 1" class="s0" d="m89.3 27l3.7 2.7-3.7 2.7z"/>
+	<use id="Layer 9" href="#img1" x="-3" y="25"/>
+	<path id="Shape 2" class="s0" d="m44 3h18v24h-18z"/>
+	<use id="Layer 11" href="#img2" x="43" y="33"/>
+	<use id="Layer 12" href="#img3" x="66" y="2"/>
+	<use id="Layer 13" href="#img4" x="66" y="33"/>
+</svg>

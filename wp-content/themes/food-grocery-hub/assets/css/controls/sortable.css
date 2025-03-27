@@ -1,0 +1,33 @@
+.customize-control-food-grocery-hub-sortable .sortable {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.customize-control-food-grocery-hub-sortable .sortable li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 5px;
+  background: #fff;
+  text-transform: capitalize;
+}
+.customize-control-food-grocery-hub-sortable .sortable li .visibility {
+  margin-left: auto; /* Move the eye icon to the right */
+  color: #333; /* Change the eye icon color */
+}
+.customize-control-food-grocery-hub-sortable .sortable li.invisible {
+  opacity: 0.3;
+}
+.customize-control-food-grocery-hub-sortable .sortable li.invisible .visibility {
+  color: #aaa;
+}
+.customize-control-food-grocery-hub-sortable .customize-control-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.customize-control-food-grocery-hub-sortable .customize-control-description {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 10px;
+}

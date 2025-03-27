@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 62" width="92" height="62">
+	<title>sliderX-icon</title>
+	<defs>
+		<image  width="36" height="60" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAA8AgMAAABz6/D9AAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAACJJREFUeJxjZIABRoEPEAYLI9cCCOvbKGuURQQLkXIYYAAA9ghdRU/m5BsAAAAASUVORK5CYII="/>
+		<image  width="36" height="60" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAA8AgMAAABz6/D9AAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAACJJREFUeJxjZIABRoEPEAYLI9cCCOvbKGuURQQLkXIYYAAA9ghdRU/m5BsAAAAASUVORK5CYII="/>
+		<image  width="13" height="12" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAMAAACOacfrAAAAAXNSR0IB2cksfwAAAL1QTFRFAAAASID0SID0Q4DyR4D0SX/0SYD0SYD1Q4DyR3/0SID0SYD0SYD1SYD1RHzzR3/0SID0SYD1SYD1SID0SID0SX/1SYD1SIDzSIDzSID0SYD1SID1SYD1Q4DySID0SID0SYD1SYD1SYD1RYDzQ4DySID0SYD1SYD0SID0SYD1SID0SIDzSID0SID0SYD1SYD1SID1SID0RX3zSX/0SYD1SYD1SYD1SYD1RHzzR4D0SX/0SYD1SYD1SID0R4D0phKtzgAAAD90Uk5TAAIGAQAHK0IEAA5Lu8QBGo7/0whb/OMCMMj1/fIFATW02fsHABU4U9z9FggZTen2JgQGU8vo+jUADF61NBMKfGcZNAAAAGtJREFUeJxjZIABRkbGv4xQNguQw/gDyuMEcX5DeXxANgPjNwhPmPEvA8sf1k8gnjhI1TcGBm7Gx4xyIPZ7sHohoHJVEPcFiCf5C6RPG8T/9YJB/jLETENGMDgDtc/ihCWQdxzmFiCwZTwKAP9gFmFTXacaAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+		.s1 { fill: #4980f5;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m30 2h34v58h-34z"/>
+	<use id="Layer 2" href="#img1" x="-10" y="1"/>
+	<use id="Layer 3" href="#img2" x="68" y="1"/>
+	<path id="Layer 4" class="s1" d="m83.9 26.8l6.3 3.8-6.5 3.4z"/>
+	<use id="Layer 5" href="#img3" x="-2" y="25"/>
+</svg>

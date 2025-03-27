@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 60" width="92" height="62">
+	<title>sliderX-icon</title>
+	<defs>
+		<image  width="20" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASAgMAAAAmvhaDAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+UZmEmAy2BQAv6RjbpsghoQAAAABJRU5ErkJggg=="/>
+		<image  width="20" height="18" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASAgMAAAAmvhaDAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+UZmEmAy2BQAv6RjbpsghoQAAAABJRU5ErkJggg=="/>
+		<image  width="10" height="13" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAMAAACn6Q83AAAAAXNSR0IB2cksfwAAAJZQTFRFAAAAR4D1RoD1RYD0SX/1SID1R4D1R4D0SX71SX/1SX/1SYD1R4D0SX31SX71SH/0SYD1SYD1R4D1R4D1SX/1SYD1SX/1SX/1SYD1R4D0SH/1SYD1SID1R4D0RYD0SH/1SX/1R4D0SX/1R4D1SX/1SYD1R4D0R4D0SX31SID1R4D0SX/1SYD1SID0SH71R4D0RYD0RYD0HqYlMAAAADJ0Uk5TAAACCQAELR0ABmT1HgAOqP/4ASv7+gFZ/R+Z+/0AAAVcIQIo9v4kAQmZJlPxKCMCCAENNOPwAAAAaElEQVR4nDXNuwqAMAyF4RysoEMHHRQcHHRwEMT3fxhXBUcF7+hJi50+wp8G4h6AB06GPBwjCqvSqi5lCtwSbmQG7NqMCHJmrGKDkkNOJbnZVlyatdP/G0xv4U/YpQVOf02kG+qf0uMD51UWHee9u7wAAAAASUVORK5CYII="/>
+		<image  width="20" height="18" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASAgMAAAAmvhaDAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB5JREFUeJxjZAABRoEPDAwsjFwLGBi+UZmEmAy2BQAv6RjbpsghoQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+		.s1 { fill: #4980f5;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m2 3h85v31h-85z"/>
+	<path id="Layer 2" class="s0" d="m2 41h18v16h-18z"/>
+	<use id="Layer 3" href="#img1" x="46" y="40"/>
+	<use id="Layer 4" href="#img2" x="23" y="40"/>
+	<path id="Shape 1" class="s1" d="m75.6 15.9l4.8 3.6-4.8 3.6z"/>
+	<use id="Layer 6" href="#img3" x="7" y="13"/>
+	<use id="Layer 5" href="#img4" x="68" y="40"/>
+</svg>

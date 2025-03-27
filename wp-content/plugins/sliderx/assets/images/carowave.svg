@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 60" width="92" height="62">
+	<title>sliderX-icon</title>
+	<defs>
+		<image  width="27" height="40" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAoAgMAAAByVGnFAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB9JREFUeJxjZIAARoEPIEqAkWsBiL42SuOgYeEEDTcAC504ST3d9rcAAAAASUVORK5CYII="/>
+		<image  width="27" height="40" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAoAgMAAAByVGnFAAAAAXNSR0IB2cksfwAAAAlQTFRFSYD0SID1AAAA0Q0ZigAAAAN0Uk5T5f0A9E1JZQAAAB9JREFUeJxjZIAARoEPIEqAkWsBiL42SuOgYeEEDTcAC504ST3d9rcAAAAASUVORK5CYII="/>
+		<image  width="10" height="9" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJCAMAAAA8eE0hAAAAAXNSR0IB2cksfwAAAGZQTFRFAAAASIDvSIDwR4DzSIDzR37zSX/0SIDxR4DzSIDzR37zSX/0SYD1SYD1SYD1SYD1SH/1SID1SYD1SIDvR4DzSH/0R4DzSYD0SYD0SH71SIDzSH71SH/1R37zSID0SYD1SIDzR4DzsYn6NwAAACJ0Uk5TAAAAAQAAAQdGEBFs//0AJZv9/gRD0kTTAicRAAAQa/sSQicI/6QAAABHSURBVHicY2QAA0YQALNY4UxWEPMPkMkHpIDi3xmFGRn//gJJ/WUUZmb8ygBhMjKJMn5nYvgFVAfkS4O0vxOGGMbAIMz3AgDqnAx+6VykUQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+		.s1 { fill: #4980f5;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+	</style>
+	<path id="Layer 1" class="s0" d="m-1 14h25v38h-25z"/>
+	<use id="Layer 2" href="#img1" x="64" y="13"/>
+	<use id="Layer 3" href="#img2" x="31" y="5"/>
+	<path id="Shape 1" class="s1" d="m51.7 52.6l5.6 2.4-5.6 2.4z"/>
+	<use id="Layer 4" href="#img3" x="31" y="50"/>
+</svg>

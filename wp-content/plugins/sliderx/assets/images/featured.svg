@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 62" width="92" height="62">
+	<title>featured-icon</title>
+	<defs>
+		<image  width="27" height="29" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAMAAABsU+d6AAAAAXNSR0IB2cksfwAAASNQTFRFAAAASYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1SYD1zualaQAAAGF0Uk5TAAcqMi0LAiEvPVQIhby2xdDSQQEP9PfwlAri/f72Ze7//Lcp5sQQhPiZBZ3h5eDTzsE+ioEjZoi92stutK2Na10eobN77fv1695kpvrzYxSsBE/X5+i5HwYzWmquoCYiIKt8RogAAADISURBVHic7Y6/CwFhHMafJ3fIr3SZiZFFJ5PJbFAWNv40bCZltkuGM/gxiplB1MWdy/u+KZYrN9g8vcPzfT/19CE+QhknTIrmeXcirn7ohch7RLZz2tUlPRBG0oUuHncF2tQ1Qa/Q4KS2RJGv7E+xfJRcFBPyelw2hH++ZjW1Pbu9WV04g1PAqGyAEpTy/KRYgxZgcoImV45dXlNz9UJqrFhL7FgmR3KmI/rSyJHDIC5/9ntWxcKPdY/IDHxY74Bs32+zjVFQlyeM0y8eVEwyhwAAAABJRU5ErkJggg=="/>
+		<image  width="11" height="13" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAANCAMAAABIK2QJAAAAAXNSR0IB2cksfwAAAIpQTFRFAAAAR370R370SXzzR4DxSIDzSH/1R370SIDzSIDzSID1SYD1SYD0SYD0SID1SYD1SYD1SIDzRn31R331SX/0SYD1SIDzSIDzSYD1SYD1RoDzSYD1RoDzSYD1SIDzSIDzR371SX/0SIDzSX/0SYD0SID1SID0R4DxSID1SYD1SID0R370SXnzSXnzsD0c5wAAAC50Uk5TAAABAQAABCkPDH33ATf1//kQAAyN+wFA/P0QngEFQxINihQBMO0WBXD0GCIBAHP65FkAAABwSURBVHicPcyxCsIwFIXh+0vrUDpohQji7lDf/3U6FDIVOlRMqA140oiZvtx77sHKAxK7KpFYXOuTits8ZpY7+JgdN9lB0K6JMzfWdb85vLgr8c4+eeVdQ1DqMuae7gxLuA6l3x7qnH426339tz35Ap0FGXt6bIe8AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.3 } 
+		.t1 { font-size: 7px;fill: #4980f5;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.s2 { fill: #4980f5;stroke: #4980f5;stroke-miterlimit:100;stroke-width: 1.9 } 
+	</style>
+	<path id="Layer 1" fill-rule="evenodd" class="s0" d="m46 5h35v54h-35zm3 8h28v-3h-28zm0 25h28v-17h-28zm0 12c0 1.1 0.9 2 2 2h7c1.1 0 2-0.9 2-2 0-1.1-0.9-2-2-2h-7c-1.1 0-2 0.9-2 2zm16 0c0 1.1 0.9 2 2 2h7c1.1 0 2-0.9 2-2 0-1.1-0.9-2-2-2h-7c-1.1 0-2 0.9-2 2z"/>
+	<use id="Layer 3" href="#img1" x="50" y="23"/>
+	<text id="Image" style="transform: matrix(1,0,0,1,26,28)" >
+		<tspan x="-11" y="0" class="t1">I</tspan><tspan  y="0" class="t1">m</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">g</tspan><tspan  y="0" class="t1">e
+</tspan>
+	</text>
+	<path id="Layer 2" class="s0" d="m10 4h31v55h-31z"/>
+	<path id="Layer 4" class="s2" d="m85.7 25.9l5.6 3.6-5.6 3.6z"/>
+	<use id="Layer 5" href="#img2" x="-2" y="24"/>
+</svg>
